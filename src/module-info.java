@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author goakhila
+ *
+ */
+module Javatraining {
+}
